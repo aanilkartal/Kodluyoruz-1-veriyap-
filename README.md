@@ -1,4 +1,4 @@
-# Kodluyoruz-1-veriyap1
+# Kodluyoruz-1-veriyap-
 www.patika.dev
 veri yapıları projeleri
 www.patika.dev 
