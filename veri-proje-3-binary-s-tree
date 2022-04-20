@@ -1,0 +1,6 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Root [3] -> 
+solda [7,5,1,8]     root [5] ->   solda [7],   sağda [1,8],       root [1] sağda [8]
+sağda [6,0,9,4,2]   root [9] ->   solda [6,0], sağda [4,2],       root [6] sağda [0] ve root [4], sağda[2]
+www.patika.dev 
